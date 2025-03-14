@@ -1,11 +1,11 @@
 # Place Release Organisation / Username, for example: "PortsMaster"
-RELEASE_ORG="PortsMaster-MV"
+RELEASE_ORG="CODEHEX4EVER"
 
 # Place Repository here, for example: "PortMaster-Source"
-RELEASE_REPO="PortMaster-MV-New"
+RELEASE_REPO="PortMaster-OV"
 
 # The name for the repo, for example: "PortMaster Example Source"
-REPO_NAME="PortMaster New Repo."
+REPO_NAME="PortMaster Omniverse"
 
 # A 2-4 letter prefix for storing auxillary port files (screenshots currently)
 # For example "xmpl"
